@@ -1,5 +1,5 @@
 {
-    "name": "@atsu/amagi",
+    "name": "@atsu/amagi-chan",
     "version": "0.0.1",
     "description": "Small web scrapper written in Typescript",
     "main": "./dist/umd.bundle.js",
